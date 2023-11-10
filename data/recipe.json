@@ -1,0 +1,418 @@
+[
+    {
+        "id": "623853b2614ad5aba311fdd1",
+        "chefID": 1,
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "tomato sauce",
+            "onion",
+            "garlic",
+            "olive oil"
+        ],
+        "cookingMethod": "Boil spaghetti, brown ground beef, sauté onion and garlic, mix with tomato sauce, serve over spaghetti.",
+        "rating": 4.5,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd2",
+        "chefID": 2,
+        "recipeName": "Chicken Alfredo Pasta",
+        "ingredients": [
+            "chicken breast",
+            "fettuccine pasta",
+            "heavy cream",
+            "parmesan cheese",
+            "butter",
+            "garlic"
+        ],
+        "cookingMethod": "Cook chicken, prepare pasta, make Alfredo sauce with cream, butter, and parmesan, mix and serve.",
+        "rating": 4.2,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd3",
+        "chefID": 3,
+        "recipeName": "Vegetarian Stir Fry",
+        "ingredients": [
+            "tofu",
+            "broccoli",
+            "carrots",
+            "soy sauce",
+            "ginger",
+            "sesame oil"
+        ],
+        "cookingMethod": "Stir fry tofu and vegetables in sesame oil, add soy sauce and ginger, toss and serve.",
+        "rating": 4.0,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd4",
+        "chefID": 4,
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "fresh mozzarella",
+            "basil",
+            "olive oil",
+            "garlic"
+        ],
+        "cookingMethod": "Roll out dough, top with sliced tomatoes, mozzarella, and basil, drizzle with olive oil, bake until golden.",
+        "rating": 4.7,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd5",
+        "chefID": 5,
+        "recipeName": "Beef Tacos",
+        "ingredients": [
+            "ground beef",
+            "taco shells",
+            "lettuce",
+            "tomatoes",
+            "cheddar cheese",
+            "salsa"
+        ],
+        "cookingMethod": "Brown beef, fill taco shells with beef, lettuce, tomatoes, cheese, and salsa, enjoy!",
+        "rating": 4.3,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd6",
+        "chefID": 6,
+        "recipeName": "Chicken Caesar Salad",
+        "ingredients": [
+            "chicken breast",
+            "romaine lettuce",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing",
+            "lemon"
+        ],
+        "cookingMethod": "Grill chicken, toss with lettuce, croutons, parmesan, and Caesar dressing, squeeze lemon, and serve.",
+        "rating": 4.6,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/1529446352.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd7",
+        "chefID": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "penne pasta",
+            "basil pesto",
+            "cherry tomatoes",
+            "pine nuts",
+            "parmesan cheese",
+            "olive oil"
+        ],
+        "cookingMethod": "Cook pasta, mix with basil pesto, add tomatoes, pine nuts, and parmesan, drizzle with olive oil.",
+        "rating": 4.1,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd8",
+        "chefID": 2,
+        "recipeName": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+            "chicken breast",
+            "spinach",
+            "feta cheese",
+            "garlic",
+            "lemon",
+            "olive oil"
+        ],
+        "cookingMethod": "Stuff chicken with spinach and feta, bake until golden, garnish with garlic and lemon.",
+        "rating": 4.4,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd9",
+        "chefID": 3,
+        "recipeName": "Shrimp Scampi",
+        "ingredients": [
+            "shrimp",
+            "linguine pasta",
+            "garlic",
+            "white wine",
+            "lemon",
+            "parsley"
+        ],
+        "cookingMethod": "Sauté shrimp in garlic and white wine, toss with cooked linguine, finish with lemon and parsley.",
+        "rating": 4.2,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd10",
+        "chefID": 4,
+        "recipeName": "Mushroom Risotto",
+        "ingredients": [
+            "arborio rice",
+            "mushrooms",
+            "onion",
+            "white wine",
+            "parmesan cheese",
+            "chicken broth"
+        ],
+        "cookingMethod": "Sauté mushrooms and onion, add rice and wine, gradually add broth and cheese, stir until creamy.",
+        "rating": 4.0,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd11",
+        "chefID": 5,
+        "recipeName": "BBQ Pulled Pork Sandwiches",
+        "ingredients": [
+            "pork shoulder",
+            "BBQ sauce",
+            "hamburger buns",
+            "coleslaw",
+            "pickles",
+            "onion"
+        ],
+        "cookingMethod": "Slow-cook pork with BBQ sauce, shred, assemble sandwiches with coleslaw, pickles, and onion.",
+        "rating": 4.5,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/1525872624.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd12",
+        "chefID": 6,
+        "recipeName": "Caprese Salad",
+        "ingredients": [
+            "tomatoes",
+            "mozzarella cheese",
+            "fresh basil",
+            "balsamic glaze",
+            "olive oil",
+            "salt"
+        ],
+        "cookingMethod": "Slice tomatoes and mozzarella, arrange with basil, drizzle with balsamic glaze and olive oil, sprinkle with salt.",
+        "rating": 4.6,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd13",
+        "chefID": 1,
+        "recipeName": "Vegetable Curry",
+        "ingredients": [
+            "mixed vegetables",
+            "coconut milk",
+            "curry paste",
+            "onion",
+            "garlic",
+            "ginger"
+        ],
+        "cookingMethod": "Sauté vegetables, add coconut milk and curry paste, simmer until veggies are tender.",
+        "rating": 4.1,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd14",
+        "chefID": 2,
+        "recipeName": "Teriyaki Chicken Bowl",
+        "ingredients": [
+            "chicken thighs",
+            "teriyaki sauce",
+            "rice",
+            "broccoli",
+            "carrots",
+            "sesame seeds"
+        ],
+        "cookingMethod": "Grill chicken with teriyaki sauce, serve over rice with steamed broccoli, carrots, and sesame seeds.",
+        "rating": 4.3,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd15",
+        "chefID": 1,
+        "recipeName": "Spaghetti Bolognese",
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "tomato sauce",
+            "onion",
+            "garlic",
+            "olive oil"
+        ],
+        "cookingMethod": "Boil spaghetti, brown ground beef, sauté onion and garlic, mix with tomato sauce, serve over spaghetti.",
+        "rating": 4.5,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd16",
+        "chefID": 2,
+        "recipeName": "Chicken Alfredo Pasta",
+        "ingredients": [
+            "chicken breast",
+            "fettuccine pasta",
+            "heavy cream",
+            "parmesan cheese",
+            "butter",
+            "garlic"
+        ],
+        "cookingMethod": "Cook chicken, prepare pasta, make Alfredo sauce with cream, butter, and parmesan, mix and serve.",
+        "rating": 4.2,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd17",
+        "chefID": 3,
+        "recipeName": "Vegetarian Stir Fry",
+        "ingredients": [
+            "tofu",
+            "broccoli",
+            "carrots",
+            "soy sauce",
+            "ginger",
+            "sesame oil"
+        ],
+        "cookingMethod": "Stir fry tofu and vegetables in sesame oil, add soy sauce and ginger, toss and serve.",
+        "rating": 4.0,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/1529444113.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd18",
+        "chefID": 4,
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "fresh mozzarella",
+            "basil",
+            "olive oil",
+            "garlic"
+        ],
+        "cookingMethod": "Roll out dough, top with sliced tomatoes, mozzarella, and basil, drizzle with olive oil, bake until golden.",
+        "rating": 4.7,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd19",
+        "chefID": 5,
+        "recipeName": "Beef Tacos",
+        "ingredients": [
+            "ground beef",
+            "taco shells",
+            "lettuce",
+            "tomatoes",
+            "cheddar cheese",
+            "salsa"
+        ],
+        "cookingMethod": "Brown beef, fill taco shells with beef, lettuce, tomatoes, cheese, and salsa, enjoy!",
+        "rating": 4.3,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd20",
+        "chefID": 6,
+        "recipeName": "Chicken Caesar Salad",
+        "ingredients": [
+            "chicken breast",
+            "romaine lettuce",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing",
+            "lemon"
+        ],
+        "cookingMethod": "Grill chicken, toss with lettuce, croutons, parmesan, and Caesar dressing, squeeze lemon, and serve.",
+        "rating": 4.6,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd21",
+        "chefID": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "penne pasta",
+            "basil pesto",
+            "cherry tomatoes",
+            "pine nuts",
+            "parmesan cheese",
+            "olive oil"
+        ],
+        "cookingMethod": "Cook pasta, mix with basil pesto, add tomatoes, pine nuts, and parmesan, drizzle with olive oil.",
+        "rating": 4.1,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd22",
+        "chefID": 2,
+        "recipeName": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+            "chicken breast",
+            "spinach",
+            "feta cheese",
+            "garlic",
+            "lemon",
+            "olive oil"
+        ],
+        "cookingMethod": "Stuff chicken with spinach and feta, bake until golden, garnish with garlic and lemon.",
+        "rating": 4.4,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd23",
+        "chefID": 3,
+        "recipeName": "Shrimp Scampi",
+        "ingredients": [
+            "shrimp",
+            "linguine pasta",
+            "garlic",
+            "white wine",
+            "lemon",
+            "parsley"
+        ],
+        "cookingMethod": "Sauté shrimp in garlic and white wine, toss with cooked linguine, finish with lemon and parsley.",
+        "rating": 4.2,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd24",
+        "chefID": 4,
+        "recipeName": "Mushroom Risotto",
+        "ingredients": [
+            "arborio rice",
+            "mushrooms",
+            "onion",
+            "white wine",
+            "parmesan cheese",
+            "chicken broth"
+        ],
+        "cookingMethod": "Sauté mushrooms and onion, add rice and wine, gradually add broth and cheese, stir until creamy.",
+        "rating": 4.0,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd25",
+        "chefID": 5,
+        "recipeName": "BBQ Pulled Pork Sandwiches",
+        "ingredients": [
+            "pork shoulder",
+            "BBQ sauce",
+            "hamburger buns",
+            "coleslaw",
+            "pickles",
+            "onion"
+        ],
+        "cookingMethod": "Slow-cook pork with BBQ sauce, shred, assemble sandwiches with coleslaw, pickles, and onion.",
+        "rating": 4.5,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg"
+    },
+    {
+        "id": "623853b2614ad5aba311fdd26",
+        "chefID": 6,
+        "recipeName": "Caprese Salad",
+        "ingredients": [
+            "tomatoes",
+            "mozzarella cheese",
+            "fresh basil",
+            "balsamic glaze",
+            "olive oil",
+            "salt"
+        ],
+        "cookingMethod": "Slice tomatoes and mozzarella, arrange with basil, drizzle with balsamic glaze and olive oil, sprinkle with salt.",
+        "rating": 4.6,
+        "recipeImage": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg"
+    }
+]
