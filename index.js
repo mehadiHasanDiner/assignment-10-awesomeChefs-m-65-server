@@ -23,6 +23,17 @@ app.get("/chef/:id", (req, res) => {
   res.send(selectedChef);
 });
 
+app.get("/recipes", (req, res) => {
+  res.send(recipes);
+});
+
+app.get("/recipe/:chefID", (req, res) => {
+  const id = parseInt(req.params.chefID);
+  console.log(id);
+  const selectedRecipes = recipes.filter((recipe) => recipe.chefID === id);
+  res.send(selectedRecipes);
+});
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}!`);
 });
